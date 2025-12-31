@@ -1,7 +1,7 @@
 # **Griffolyon-a-Telegram-Bot**
 
-## **Workflow Link: https://aniketgund12.app.n8n.cloud/workflow/EvUmoUezPd6Aog3M **
-## **Telegram Link: https://t.me/Griffolyon_bot **
+## **Workflow Link: https://aniketgund12.app.n8n.cloud/workflow/EvUmoUezPd6Aog3M**
+## **Telegram Link: https://t.me/Griffolyon_bot**
 
 # **🤖 AI-Powered Telegram Chatbot using n8n**
 ## **📌 Project Overview**
